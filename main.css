@@ -1,0 +1,21 @@
+/* Escribe aqui tu CSS */
+.caja{
+	border: 20px solid yellow;
+	width: 190px;
+	text-align: center;
+	padding: 40px;
+
+	
+	}
+
+ .caja2{
+	border: 20px solid #F6DA3F;
+	width: 190px;
+	text-align: left;
+	padding: 40px;	
+	margin: auto;
+	
+}
+
+
+
